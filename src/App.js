@@ -1,4 +1,4 @@
-
+import UserInfo from "./userInfo";
 
 function App() {
   return (
